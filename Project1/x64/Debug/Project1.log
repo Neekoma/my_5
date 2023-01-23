@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\siaod\Project1\Project1\tree.h(136): warning C4715: rec: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\siaod\Project1\x64\Debug\Project1.exe
